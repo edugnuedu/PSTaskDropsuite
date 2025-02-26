@@ -1,0 +1,20 @@
+2025-02-26 16:19:22 - Script execution started
+2025-02-26 16:19:22 - Downloading ZIP file from URL
+2025-02-26 16:19:23 - ZIP file downloaded successfully
+2025-02-26 16:19:23 - Extracting ZIP file
+2025-02-26 16:19:23 - ZIP file extracted successfully
+2025-02-26 16:19:23 - Extracted contents count: 3
+2025-02-26 16:19:23 - Extracted files/folders:
+2025-02-26 16:19:23 -   - D:\Dev\03.PowerShell\01Dropsuite\sample_data\sample_data (Type: Directory)
+2025-02-26 16:19:23 -   - D:\Dev\03.PowerShell\01Dropsuite\sample_data\sample_data\sample_data_1001.csv (Type: File)
+2025-02-26 16:19:23 -   - D:\Dev\03.PowerShell\01Dropsuite\sample_data\sample_data\sample_data_1002.csv (Type: File)
+2025-02-26 16:19:23 - Processing CSV files
+2025-02-26 16:19:23 - Processing file: sample_data_1001.csv
+2025-02-26 16:19:23 - Found 48 active records in sample_data_1001.csv
+2025-02-26 16:19:23 - Processing file: sample_data_1002.csv
+2025-02-26 16:19:23 - Found 74 active records in sample_data_1002.csv
+2025-02-26 16:19:23 - Exporting 122 filtered records to D:\Dev\03.PowerShell\01Dropsuite\filtered_output_20250226_161922.csv
+2025-02-26 16:19:23 - Total number of messages from filtered records: 642791
+2025-02-26 16:19:23 - Script completed successfully
+2025-02-26 16:19:23 - Performing cleanup
+2025-02-26 16:19:23 - Cleanup completed
